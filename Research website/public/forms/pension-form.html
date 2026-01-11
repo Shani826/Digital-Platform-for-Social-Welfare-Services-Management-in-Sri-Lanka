@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Senior Citizen Pension Application Form</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Times New Roman', serif; padding: 40px; max-width: 800px; margin: 0 auto; line-height: 1.6; }
+    .header { text-align: center; margin-bottom: 30px; border-bottom: 2px solid #000; padding-bottom: 20px; }
+    .header h1 { font-size: 24px; margin-bottom: 5px; }
+    .header h2 { font-size: 18px; font-weight: normal; }
+    .header p { font-size: 14px; color: #555; }
+    .section { margin-bottom: 25px; }
+    .section-title { font-size: 16px; font-weight: bold; background: #f0f0f0; padding: 8px 12px; margin-bottom: 15px; border-left: 4px solid #333; }
+    .form-row { display: flex; margin-bottom: 12px; align-items: flex-start; }
+    .form-row label { width: 200px; font-weight: bold; font-size: 14px; }
+    .form-row .field { flex: 1; border-bottom: 1px solid #333; min-height: 25px; padding: 2px 5px; }
+    .form-row .field-box { border: 1px solid #333; min-height: 80px; padding: 5px; flex: 1; }
+    .checkbox-group { margin-left: 200px; }
+    .checkbox-group label { display: block; margin-bottom: 8px; font-weight: normal; }
+    .checkbox-group input[type="checkbox"] { margin-right: 10px; width: 15px; height: 15px; }
+    .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+    .declaration { border: 1px solid #333; padding: 15px; margin-top: 20px; background: #fafafa; }
+    .declaration p { font-size: 13px; margin-bottom: 10px; }
+    .signature-section { margin-top: 40px; display: flex; justify-content: space-between; }
+    .signature-box { width: 45%; }
+    .signature-box .line { border-bottom: 1px solid #333; height: 40px; margin-bottom: 5px; }
+    .signature-box p { font-size: 12px; text-align: center; }
+    .official-use { margin-top: 40px; border: 2px solid #333; padding: 20px; }
+    .official-use h3 { margin-bottom: 15px; }
+    .note { font-size: 12px; color: #666; margin-top: 20px; font-style: italic; }
+    @media print { body { padding: 20px; } }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>🇱🇰 DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA</h1>
+    <h2>Department of Social Services</h2>
+    <h1>SENIOR CITIZEN PENSION APPLICATION FORM</h1>
+    <p>Form No: SC/PEN/2026 | Please fill in BLOCK CAPITALS</p>
+  </div>
+
+  <div class="section">
+    <div class="section-title">SECTION A: PERSONAL INFORMATION</div>
+    <div class="form-row">
+      <label>1. Full Name:</label>
+      <div class="field"></div>
+    </div>
+    <div class="form-row">
+      <label>2. Name with Initials:</label>
+      <div class="field"></div>
+    </div>
+    <div class="two-col">
+      <div class="form-row">
+        <label>3. NIC Number:</label>
+        <div class="field"></div>
+      </div>
+      <div class="form-row">
+        <label>4. Date of Birth:</label>
+        <div class="field"></div>
+      </div>
+    </div>
+    <div class="two-col">
+      <div class="form-row">
+        <label>5. Age:</label>
+        <div class="field"></div>
+      </div>
+      <div class="form-row">
+        <label>6. Gender:</label>
+        <div class="field"></div>
+      </div>
+    </div>
+    <div class="form-row">
+      <label>7. Permanent Address:</label>
+      <div class="field-box"></div>
+    </div>
+    <div class="two-col">
+      <div class="form-row">
+        <label>8. District:</label>
+        <div class="field"></div>
+      </div>
+      <div class="form-row">
+        <label>9. DS Division:</label>
+        <div class="field"></div>
+      </div>
+    </div>
+    <div class="two-col">
+      <div class="form-row">
+        <label>10. GN Division:</label>
+        <div class="field"></div>
+      </div>
+      <div class="form-row">
+        <label>11. Phone Number:</label>
+        <div class="field"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">SECTION B: FAMILY INFORMATION</div>
+    <div class="form-row">
+      <label>12. Marital Status:</label>
+      <div class="checkbox-group">
+        <label><input type="checkbox"> Single</label>
+        <label><input type="checkbox"> Married</label>
+        <label><input type="checkbox"> Widowed</label>
+        <label><input type="checkbox"> Divorced</label>
+      </div>
+    </div>
+    <div class="form-row">
+      <label>13. Spouse Name (if any):</label>
+      <div class="field"></div>
+    </div>
+    <div class="form-row">
+      <label>14. Number of Dependents:</label>
+      <div class="field"></div>
+    </div>
+    <div class="form-row">
+      <label>15. Living Arrangement:</label>
+      <div class="checkbox-group">
+        <label><input type="checkbox"> Living Alone</label>
+        <label><input type="checkbox"> With Spouse</label>
+        <label><input type="checkbox"> With Children</label>
+        <label><input type="checkbox"> With Relatives</label>
+        <label><input type="checkbox"> Care Home</label>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">SECTION C: FINANCIAL INFORMATION</div>
+    <div class="form-row">
+      <label>16. Monthly Income (Rs.):</label>
+      <div class="field"></div>
+    </div>
+    <div class="form-row">
+      <label>17. Source of Income:</label>
+      <div class="checkbox-group">
+        <label><input type="checkbox"> None</label>
+        <label><input type="checkbox"> Pension (Govt/Private)</label>
+        <label><input type="checkbox"> Rental Income</label>
+        <label><input type="checkbox"> Family Support</label>
+        <label><input type="checkbox"> Other: _______________</label>
+      </div>
+    </div>
+    <div class="form-row">
+      <label>18. Bank Account No:</label>
+      <div class="field"></div>
+    </div>
+    <div class="two-col">
+      <div class="form-row">
+        <label>19. Bank Name:</label>
+        <div class="field"></div>
+      </div>
+      <div class="form-row">
+        <label>20. Branch:</label>
+        <div class="field"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">SECTION D: HEALTH INFORMATION</div>
+    <div class="form-row">
+      <label>21. Health Conditions:</label>
+      <div class="field-box"></div>
+    </div>
+    <div class="form-row">
+      <label>22. Mobility Status:</label>
+      <div class="checkbox-group">
+        <label><input type="checkbox"> Fully Mobile</label>
+        <label><input type="checkbox"> Needs Walking Aid</label>
+        <label><input type="checkbox"> Wheelchair Bound</label>
+        <label><input type="checkbox"> Bedridden</label>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">SECTION E: EMERGENCY CONTACT</div>
+    <div class="form-row">
+      <label>23. Contact Person Name:</label>
+      <div class="field"></div>
+    </div>
+    <div class="form-row">
+      <label>24. Relationship:</label>
+      <div class="field"></div>
+    </div>
+    <div class="two-col">
+      <div class="form-row">
+        <label>25. Contact Phone:</label>
+        <div class="field"></div>
+      </div>
+      <div class="form-row">
+        <label>26. Contact NIC:</label>
+        <div class="field"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="declaration">
+    <p><strong>DECLARATION:</strong></p>
+    <p>I hereby declare that the information provided above is true and correct to the best of my knowledge. I understand that providing false information may result in the rejection of my application or termination of benefits.</p>
+    <p>I authorize the Department of Social Services to verify the information provided and conduct necessary assessments.</p>
+  </div>
+
+  <div class="signature-section">
+    <div class="signature-box">
+      <div class="line"></div>
+      <p>Applicant's Signature / Thumb Print</p>
+      <p>Date: _______________</p>
+    </div>
+    <div class="signature-box">
+      <div class="line"></div>
+      <p>Witness Signature</p>
+      <p>Date: _______________</p>
+    </div>
+  </div>
+
+  <div class="official-use">
+    <h3>FOR OFFICIAL USE ONLY</h3>
+    <div class="form-row">
+      <label>GN Recommendation:</label>
+      <div class="field"></div>
+    </div>
+    <div class="form-row">
+      <label>DS Approval:</label>
+      <div class="field"></div>
+    </div>
+    <div class="form-row">
+      <label>Reference Number:</label>
+      <div class="field"></div>
+    </div>
+    <div class="signature-section">
+      <div class="signature-box">
+        <div class="line"></div>
+        <p>GN Officer Signature & Stamp</p>
+      </div>
+      <div class="signature-box">
+        <div class="line"></div>
+        <p>DS Officer Signature & Stamp</p>
+      </div>
+    </div>
+  </div>
+
+  <p class="note">
+    * Please attach: (1) Certified copy of NIC, (2) Birth Certificate, (3) Proof of Address, (4) Income Certificate from GN, (5) Bank Passbook copy
+  </p>
+</body>
+</html>

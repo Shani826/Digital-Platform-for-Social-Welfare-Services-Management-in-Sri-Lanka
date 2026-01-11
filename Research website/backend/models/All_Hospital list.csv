@@ -1,0 +1,251 @@
+Type,Hospital,District
+Government,Teaching Hospital Colombo,Colombo
+Government,District General Hospital Colombo,Colombo
+Government,Base Hospital Colombo,Colombo
+Government,Divisional Hospital Colombo,Colombo
+Government,Peripheral Unit Colombo,Colombo
+Private,Asiri Hospital Colombo,Colombo
+Private,Lanka Hospital Colombo,Colombo
+Private,Hemas Hospital Colombo,Colombo
+Private,Durdans Hospital Colombo,Colombo
+Private,Nawaloka Hospital Colombo,Colombo
+Government,Teaching Hospital Gampaha,Gampaha
+Government,District General Hospital Gampaha,Gampaha
+Government,Base Hospital Gampaha,Gampaha
+Government,Divisional Hospital Gampaha,Gampaha
+Government,Peripheral Unit Gampaha,Gampaha
+Private,Asiri Hospital Gampaha,Gampaha
+Private,Lanka Hospital Gampaha,Gampaha
+Private,Hemas Hospital Gampaha,Gampaha
+Private,Durdans Hospital Gampaha,Gampaha
+Private,Nawaloka Hospital Gampaha,Gampaha
+Government,Teaching Hospital Kalutara,Kalutara
+Government,District General Hospital Kalutara,Kalutara
+Government,Base Hospital Kalutara,Kalutara
+Government,Divisional Hospital Kalutara,Kalutara
+Government,Peripheral Unit Kalutara,Kalutara
+Private,Asiri Hospital Kalutara,Kalutara
+Private,Lanka Hospital Kalutara,Kalutara
+Private,Hemas Hospital Kalutara,Kalutara
+Private,Durdans Hospital Kalutara,Kalutara
+Private,Nawaloka Hospital Kalutara,Kalutara
+Government,Teaching Hospital Kandy,Kandy
+Government,District General Hospital Kandy,Kandy
+Government,Base Hospital Kandy,Kandy
+Government,Divisional Hospital Kandy,Kandy
+Government,Peripheral Unit Kandy,Kandy
+Private,Asiri Hospital Kandy,Kandy
+Private,Lanka Hospital Kandy,Kandy
+Private,Hemas Hospital Kandy,Kandy
+Private,Durdans Hospital Kandy,Kandy
+Private,Nawaloka Hospital Kandy,Kandy
+Government,Teaching Hospital Matale,Matale
+Government,District General Hospital Matale,Matale
+Government,Base Hospital Matale,Matale
+Government,Divisional Hospital Matale,Matale
+Government,Peripheral Unit Matale,Matale
+Private,Asiri Hospital Matale,Matale
+Private,Lanka Hospital Matale,Matale
+Private,Hemas Hospital Matale,Matale
+Private,Durdans Hospital Matale,Matale
+Private,Nawaloka Hospital Matale,Matale
+Government,Teaching Hospital Nuwara Eliya,Nuwara Eliya
+Government,District General Hospital Nuwara Eliya,Nuwara Eliya
+Government,Base Hospital Nuwara Eliya,Nuwara Eliya
+Government,Divisional Hospital Nuwara Eliya,Nuwara Eliya
+Government,Peripheral Unit Nuwara Eliya,Nuwara Eliya
+Private,Asiri Hospital Nuwara Eliya,Nuwara Eliya
+Private,Lanka Hospital Nuwara Eliya,Nuwara Eliya
+Private,Hemas Hospital Nuwara Eliya,Nuwara Eliya
+Private,Durdans Hospital Nuwara Eliya,Nuwara Eliya
+Private,Nawaloka Hospital Nuwara Eliya,Nuwara Eliya
+Government,Teaching Hospital Galle,Galle
+Government,District General Hospital Galle,Galle
+Government,Base Hospital Galle,Galle
+Government,Divisional Hospital Galle,Galle
+Government,Peripheral Unit Galle,Galle
+Private,Asiri Hospital Galle,Galle
+Private,Lanka Hospital Galle,Galle
+Private,Hemas Hospital Galle,Galle
+Private,Durdans Hospital Galle,Galle
+Private,Nawaloka Hospital Galle,Galle
+Government,Teaching Hospital Matara,Matara
+Government,District General Hospital Matara,Matara
+Government,Base Hospital Matara,Matara
+Government,Divisional Hospital Matara,Matara
+Government,Peripheral Unit Matara,Matara
+Private,Asiri Hospital Matara,Matara
+Private,Lanka Hospital Matara,Matara
+Private,Hemas Hospital Matara,Matara
+Private,Durdans Hospital Matara,Matara
+Private,Nawaloka Hospital Matara,Matara
+Government,Teaching Hospital Hambantota,Hambantota
+Government,District General Hospital Hambantota,Hambantota
+Government,Base Hospital Hambantota,Hambantota
+Government,Divisional Hospital Hambantota,Hambantota
+Government,Peripheral Unit Hambantota,Hambantota
+Private,Asiri Hospital Hambantota,Hambantota
+Private,Lanka Hospital Hambantota,Hambantota
+Private,Hemas Hospital Hambantota,Hambantota
+Private,Durdans Hospital Hambantota,Hambantota
+Private,Nawaloka Hospital Hambantota,Hambantota
+Government,Teaching Hospital Jaffna,Jaffna
+Government,District General Hospital Jaffna,Jaffna
+Government,Base Hospital Jaffna,Jaffna
+Government,Divisional Hospital Jaffna,Jaffna
+Government,Peripheral Unit Jaffna,Jaffna
+Private,Asiri Hospital Jaffna,Jaffna
+Private,Lanka Hospital Jaffna,Jaffna
+Private,Hemas Hospital Jaffna,Jaffna
+Private,Durdans Hospital Jaffna,Jaffna
+Private,Nawaloka Hospital Jaffna,Jaffna
+Government,Teaching Hospital Kilinochchi,Kilinochchi
+Government,District General Hospital Kilinochchi,Kilinochchi
+Government,Base Hospital Kilinochchi,Kilinochchi
+Government,Divisional Hospital Kilinochchi,Kilinochchi
+Government,Peripheral Unit Kilinochchi,Kilinochchi
+Private,Asiri Hospital Kilinochchi,Kilinochchi
+Private,Lanka Hospital Kilinochchi,Kilinochchi
+Private,Hemas Hospital Kilinochchi,Kilinochchi
+Private,Durdans Hospital Kilinochchi,Kilinochchi
+Private,Nawaloka Hospital Kilinochchi,Kilinochchi
+Government,Teaching Hospital Mannar,Mannar
+Government,District General Hospital Mannar,Mannar
+Government,Base Hospital Mannar,Mannar
+Government,Divisional Hospital Mannar,Mannar
+Government,Peripheral Unit Mannar,Mannar
+Private,Asiri Hospital Mannar,Mannar
+Private,Lanka Hospital Mannar,Mannar
+Private,Hemas Hospital Mannar,Mannar
+Private,Durdans Hospital Mannar,Mannar
+Private,Nawaloka Hospital Mannar,Mannar
+Government,Teaching Hospital Mullaitivu,Mullaitivu
+Government,District General Hospital Mullaitivu,Mullaitivu
+Government,Base Hospital Mullaitivu,Mullaitivu
+Government,Divisional Hospital Mullaitivu,Mullaitivu
+Government,Peripheral Unit Mullaitivu,Mullaitivu
+Private,Asiri Hospital Mullaitivu,Mullaitivu
+Private,Lanka Hospital Mullaitivu,Mullaitivu
+Private,Hemas Hospital Mullaitivu,Mullaitivu
+Private,Durdans Hospital Mullaitivu,Mullaitivu
+Private,Nawaloka Hospital Mullaitivu,Mullaitivu
+Government,Teaching Hospital Vavuniya,Vavuniya
+Government,District General Hospital Vavuniya,Vavuniya
+Government,Base Hospital Vavuniya,Vavuniya
+Government,Divisional Hospital Vavuniya,Vavuniya
+Government,Peripheral Unit Vavuniya,Vavuniya
+Private,Asiri Hospital Vavuniya,Vavuniya
+Private,Lanka Hospital Vavuniya,Vavuniya
+Private,Hemas Hospital Vavuniya,Vavuniya
+Private,Durdans Hospital Vavuniya,Vavuniya
+Private,Nawaloka Hospital Vavuniya,Vavuniya
+Government,Teaching Hospital Batticaloa,Batticaloa
+Government,District General Hospital Batticaloa,Batticaloa
+Government,Base Hospital Batticaloa,Batticaloa
+Government,Divisional Hospital Batticaloa,Batticaloa
+Government,Peripheral Unit Batticaloa,Batticaloa
+Private,Asiri Hospital Batticaloa,Batticaloa
+Private,Lanka Hospital Batticaloa,Batticaloa
+Private,Hemas Hospital Batticaloa,Batticaloa
+Private,Durdans Hospital Batticaloa,Batticaloa
+Private,Nawaloka Hospital Batticaloa,Batticaloa
+Government,Teaching Hospital Ampara,Ampara
+Government,District General Hospital Ampara,Ampara
+Government,Base Hospital Ampara,Ampara
+Government,Divisional Hospital Ampara,Ampara
+Government,Peripheral Unit Ampara,Ampara
+Private,Asiri Hospital Ampara,Ampara
+Private,Lanka Hospital Ampara,Ampara
+Private,Hemas Hospital Ampara,Ampara
+Private,Durdans Hospital Ampara,Ampara
+Private,Nawaloka Hospital Ampara,Ampara
+Government,Teaching Hospital Trincomalee,Trincomalee
+Government,District General Hospital Trincomalee,Trincomalee
+Government,Base Hospital Trincomalee,Trincomalee
+Government,Divisional Hospital Trincomalee,Trincomalee
+Government,Peripheral Unit Trincomalee,Trincomalee
+Private,Asiri Hospital Trincomalee,Trincomalee
+Private,Lanka Hospital Trincomalee,Trincomalee
+Private,Hemas Hospital Trincomalee,Trincomalee
+Private,Durdans Hospital Trincomalee,Trincomalee
+Private,Nawaloka Hospital Trincomalee,Trincomalee
+Government,Teaching Hospital Kurunegala,Kurunegala
+Government,District General Hospital Kurunegala,Kurunegala
+Government,Base Hospital Kurunegala,Kurunegala
+Government,Divisional Hospital Kurunegala,Kurunegala
+Government,Peripheral Unit Kurunegala,Kurunegala
+Private,Asiri Hospital Kurunegala,Kurunegala
+Private,Lanka Hospital Kurunegala,Kurunegala
+Private,Hemas Hospital Kurunegala,Kurunegala
+Private,Durdans Hospital Kurunegala,Kurunegala
+Private,Nawaloka Hospital Kurunegala,Kurunegala
+Government,Teaching Hospital Puttalam,Puttalam
+Government,District General Hospital Puttalam,Puttalam
+Government,Base Hospital Puttalam,Puttalam
+Government,Divisional Hospital Puttalam,Puttalam
+Government,Peripheral Unit Puttalam,Puttalam
+Private,Asiri Hospital Puttalam,Puttalam
+Private,Lanka Hospital Puttalam,Puttalam
+Private,Hemas Hospital Puttalam,Puttalam
+Private,Durdans Hospital Puttalam,Puttalam
+Private,Nawaloka Hospital Puttalam,Puttalam
+Government,Teaching Hospital Anuradhapura,Anuradhapura
+Government,District General Hospital Anuradhapura,Anuradhapura
+Government,Base Hospital Anuradhapura,Anuradhapura
+Government,Divisional Hospital Anuradhapura,Anuradhapura
+Government,Peripheral Unit Anuradhapura,Anuradhapura
+Private,Asiri Hospital Anuradhapura,Anuradhapura
+Private,Lanka Hospital Anuradhapura,Anuradhapura
+Private,Hemas Hospital Anuradhapura,Anuradhapura
+Private,Durdans Hospital Anuradhapura,Anuradhapura
+Private,Nawaloka Hospital Anuradhapura,Anuradhapura
+Government,Teaching Hospital Polonnaruwa,Polonnaruwa
+Government,District General Hospital Polonnaruwa,Polonnaruwa
+Government,Base Hospital Polonnaruwa,Polonnaruwa
+Government,Divisional Hospital Polonnaruwa,Polonnaruwa
+Government,Peripheral Unit Polonnaruwa,Polonnaruwa
+Private,Asiri Hospital Polonnaruwa,Polonnaruwa
+Private,Lanka Hospital Polonnaruwa,Polonnaruwa
+Private,Hemas Hospital Polonnaruwa,Polonnaruwa
+Private,Durdans Hospital Polonnaruwa,Polonnaruwa
+Private,Nawaloka Hospital Polonnaruwa,Polonnaruwa
+Government,Teaching Hospital Badulla,Badulla
+Government,District General Hospital Badulla,Badulla
+Government,Base Hospital Badulla,Badulla
+Government,Divisional Hospital Badulla,Badulla
+Government,Peripheral Unit Badulla,Badulla
+Private,Asiri Hospital Badulla,Badulla
+Private,Lanka Hospital Badulla,Badulla
+Private,Hemas Hospital Badulla,Badulla
+Private,Durdans Hospital Badulla,Badulla
+Private,Nawaloka Hospital Badulla,Badulla
+Government,Teaching Hospital Monaragala,Monaragala
+Government,District General Hospital Monaragala,Monaragala
+Government,Base Hospital Monaragala,Monaragala
+Government,Divisional Hospital Monaragala,Monaragala
+Government,Peripheral Unit Monaragala,Monaragala
+Private,Asiri Hospital Monaragala,Monaragala
+Private,Lanka Hospital Monaragala,Monaragala
+Private,Hemas Hospital Monaragala,Monaragala
+Private,Durdans Hospital Monaragala,Monaragala
+Private,Nawaloka Hospital Monaragala,Monaragala
+Government,Teaching Hospital Ratnapura,Ratnapura
+Government,District General Hospital Ratnapura,Ratnapura
+Government,Base Hospital Ratnapura,Ratnapura
+Government,Divisional Hospital Ratnapura,Ratnapura
+Government,Peripheral Unit Ratnapura,Ratnapura
+Private,Asiri Hospital Ratnapura,Ratnapura
+Private,Lanka Hospital Ratnapura,Ratnapura
+Private,Hemas Hospital Ratnapura,Ratnapura
+Private,Durdans Hospital Ratnapura,Ratnapura
+Private,Nawaloka Hospital Ratnapura,Ratnapura
+Government,Teaching Hospital Kegalle,Kegalle
+Government,District General Hospital Kegalle,Kegalle
+Government,Base Hospital Kegalle,Kegalle
+Government,Divisional Hospital Kegalle,Kegalle
+Government,Peripheral Unit Kegalle,Kegalle
+Private,Asiri Hospital Kegalle,Kegalle
+Private,Lanka Hospital Kegalle,Kegalle
+Private,Hemas Hospital Kegalle,Kegalle
+Private,Durdans Hospital Kegalle,Kegalle
+Private,Nawaloka Hospital Kegalle,Kegalle
