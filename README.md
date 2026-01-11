@@ -10,7 +10,8 @@ The system utilizes predictive analytics and machine learning to ensure that aid
 
 ## 2. Architectural Diagram
 The system is built on a multi-layered infrastructure consisting of a User Interface Layer for citizens and officers, an AI Intelligence Layer for processing, and an Infrastructure Layer for secure data storage.
-![System Architecture]()
+
+![System Architecture](./Architectural%20Diagram.PNG)
 
 Component: Eligibility & Health Engine
 Description: Predicts welfare eligibility and suggests specialists.
